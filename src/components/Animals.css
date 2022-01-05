@@ -1,0 +1,15 @@
+.picked {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    margin-left: 120px;
+}
+
+.pickButton {
+    width: fit-content;
+    height: fit-content;
+    color: black;
+    background-color: forestgreen;
+    border-radius: 25px;
+}

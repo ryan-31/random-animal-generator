@@ -1,0 +1,45 @@
+img {
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+.card {
+    background-color: #93ff96;
+    border: 15px solid forestgreen;
+    border-radius: 10px;
+    margin: 15px;
+    width: 455px;
+    height: 725px;
+    line-height: 20px;
+
+}
+
+.animal {
+    font-style:initial;
+    font-size: 25px;
+    line-height: normal;
+}
+
+.latinName {
+    font-size: 15px;
+    font-style: italic;
+    line-height: normal;
+}
+
+.animalHabitat {
+    font-size: 15px;
+    line-height: normal;
+
+}
+
+.animalDiet {
+    font-size: 15px;
+    line-height: normal;
+
+}
+
+.animalRange {
+    font-size: 15px;
+    line-height: normal;
+}
